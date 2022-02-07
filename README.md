@@ -15,7 +15,6 @@
 - [ ] Main part of documentation
 - [ ] Case for device (Design)
 - [ ] Case for device (First prototype)
-
 - [ ] Pulsemeter to finish
 - [ ] Final power source
 
