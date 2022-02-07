@@ -3,21 +3,21 @@
 # Working practices
 
 **December**
-- [ ] Documentation (beginning)
-- [ ] BCG - Searching information
+- [x] Documentation (beginning)
+- [x] BCG - Searching information
 
-**January**
-- [ ] BSG - prototype
+**February**
+- [ ] BCG - prototype
 - [ ] List of components
+- [ ] Final power source for BCG part
 - [ ] Final schematic of electronics (-power source)
 - [ ] Optimal solution for power supply
 - [ ] Main part of documentation
-
-**February**
-- [ ] Pulsemeter to finish
-- [ ] Final power source
 - [ ] Case for device (Design)
 - [ ] Case for device (First prototype)
+
+- [ ] Pulsemeter to finish
+- [ ] Final power source
 
 **March**
 - [ ] Combine all features
@@ -30,9 +30,9 @@
 |  ------ |     ------     |    ------   |       ------        |    ------    |     ------      |     ------    |
 | Week 50 |                |             | Searching information |              |                 |     Beginning         |
 | Week 51 |                |             | Data collection and analysis |              |                 |               |
-| Week 52 |                |             |                     |              |                 |               |
-| Week 1  |                |             |                     |              |                 |               |
-| Week 2  |                |             |                     |              |                 |               |
-| Week 3  | List of comp.  |List of comp.| Prototype           |              |                 |               |
-| Week 4  |                |             |                     |              |                 |               |
-| Week 5  |                |             |                     |              |                 |               |
+| Week 6  |                |             | Searching information |              |                 |               |
+| Week 7  | List of comp.  |List of comp.| List of comp./Prototype |              |                 |               |
+| Week 8  |                |             |                     |              |                 |               |
+| Week 9  |                |             |                     |              |                 |               |
+| Week 10 |                |             |                     |              |                 |               |
+| Week 11 |                |             |                     |              |                 |               |
