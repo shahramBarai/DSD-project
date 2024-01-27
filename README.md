@@ -9,6 +9,7 @@
 
 __* *More information about the results and summary can be found here [./reports/](./reports/)*__
 
+A video about the device’s performance and test can be viewed here: **[demo video](./reports/images/IMG_5468.MOV)**
 
 <img src="./reports/images/final_look_of_device.jpg" width=49% height=49% /> <img src="./reports/images/device_on_body.jpg" width=49% height=49% />
 
